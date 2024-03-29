@@ -5,12 +5,12 @@ The HR Attrition Data Analysis project in Excel focuses on understanding employe
 # Technologies Used :-
 Advance Excel
 # Operations Performed
-1.Excel Functions
-2.Conditional formating
-3.Sorting & Filtering
-4.Data Cleaning 
-5.Analysing the data
-6.Creating the Dashboard
+  1.Excel Functions
+  2.Conditional formating
+  3.Sorting & Filtering
+  4.Data Cleaning 
+  5.Analysing the data
+  6.Creating the Dashboard
 # Dashboard Content :-
 # Key Performance Indicators(KPI's) :-
 
