@@ -41,6 +41,6 @@ These KPIs provide valuable insights into different aspects of attrition within 
 # Dashboard
 ![Project](https://github.com/Yuvashree2505/Excel-Data-Analysis/assets/110049403/a8252e01-8beb-46b0-988e-5e2689d0dd31)
 
-I've shared the necessary datasets,analysis and details of my project.If you find value in the project and dashboard consider giving it a star or simply let me know. Your feedback would be greatly appreciated!
+I've shared the necessary datasets ,analysis and details of my project. If you find value in the project and dashboard consider giving a star or simply let me know. Your feedback would be greatly appreciated!
 
 
