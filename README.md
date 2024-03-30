@@ -1,6 +1,6 @@
-# Excel-Data-Analysis
-# HR Attrition Dashboard Project 
-# Description :-
+# 📉 Excel-Data-Analysis
+# 📊 HR Attrition Dashboard Project 
+# 🗒 Description :-
 The HR Attrition Data Analysis project in Excel focuses on understanding employee attrition within an organization. Through data collection, cleaning, and analysis, key insights are derived using Excel's tools and functions. This includes calculating key performance indicators (KPIs) such as attrition rates and departmental trends, culminating in a visually informative dashboard. The project aims to provide actionable insights for HR professionals and management to develop effective retention strategies and improve organizational performance while enhancing employee satisfaction.
 # Technologies Used :-
 Advance Excel
@@ -12,7 +12,7 @@ Advance Excel
   5. Analysing the data
   6. Creating the Dashboard
 # Dashboard Content :-
-# Key Performance Indicators(KPI's) :-
+# 🔑 Key Performance Indicators(KPI's) :-
 
 Based on the metrics you've provided, here are some KPIs you can derive from your HR Attrition Analysis Dashboard project:
 
@@ -37,8 +37,8 @@ Based on the metrics you've provided, here are some KPIs you can derive from you
 10. **Retention Effectiveness by Department**: Measure the effectiveness of retention strategies by department or team by comparing attrition rates over time.
 
 These KPIs provide valuable insights into different aspects of attrition within the organization, enabling HR professionals and management to pinpoint areas for improvement and implement targeted retention strategies.
-# Overview :-
-# Dashboard
+# 📊 Overview :-
+# 📈 Dashboard
 ![Project](https://github.com/Yuvashree2505/Excel-Data-Analysis/assets/110049403/a8252e01-8beb-46b0-988e-5e2689d0dd31)
 
 I've shared the necessary datasets ,analysis and details of my project. If you find value in the project and dashboard consider giving a star or simply let me know. Your feedback would be greatly appreciated!
