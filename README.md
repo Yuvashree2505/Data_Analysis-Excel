@@ -41,7 +41,8 @@ These Exploration provide valuable insights into different aspects of attrition 
 # Cleaning Data
 ![PowerQuery](https://github.com/Yuvashree2505/Data_Analysis-Excel/assets/110049403/cc94266d-1621-4177-88f4-58013f3a9347)
 
-Cleaning the Data with PowerQuery
+I have cleaned the data using Power Query in Excel, where I performed various operations such as formatting the data, filtering the rows, adding a worked time column, and changing the data types.
+
 # Analysing Data
 ![PivotTable](https://github.com/Yuvashree2505/Data_Analysis-Excel/assets/110049403/34e09e90-048d-4842-9078-7c48c6cde70e)
 ![Analysing](https://github.com/Yuvashree2505/Data_Analysis-Excel/assets/110049403/ca9aafdc-e168-4d12-b92d-685a7804b699)
