@@ -12,9 +12,9 @@ Advance Excel
   5. Analysing the data
   6. Creating the Dashboard
 # Dashboard Content :-
-# 🔑 Key Performance Indicators(KPI's) :-
+# Data Exploration :-
 
-Based on the metrics you've provided, here are some KPIs you can derive from your HR Attrition Analysis Dashboard project:
+Exploration of HR Attrition Analysis Dashboard project:
 
 1. **Overall Attrition**: This KPI provides an overview of the number of employees who have left the organization.
 
@@ -36,7 +36,7 @@ Based on the metrics you've provided, here are some KPIs you can derive from you
 
 10. **Retention Effectiveness by Department**: Measure the effectiveness of retention strategies by department or team by comparing attrition rates over time.
 
-These KPIs provide valuable insights into different aspects of attrition within the organization, enabling HR professionals and management to pinpoint areas for improvement and implement targeted retention strategies.
+These Exploration provide valuable insights into different aspects of attrition within the organization, enabling HR professionals and management to pinpoint areas for improvement and implement targeted retention strategies.
 # 📊 Overview :-
 # 📈 Dashboard
 ![Project](https://github.com/Yuvashree2505/Excel-Data-Analysis/assets/110049403/a8252e01-8beb-46b0-988e-5e2689d0dd31)
