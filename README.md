@@ -38,6 +38,13 @@ Exploration of HR Attrition Analysis Dashboard project:
 
 These Exploration provide valuable insights into different aspects of attrition within the organization, enabling HR professionals and management to pinpoint areas for improvement and implement targeted retention strategies.
 # 📊 Overview :-
+# Cleaning Data
+![PowerQuery](https://github.com/Yuvashree2505/Data_Analysis-Excel/assets/110049403/cc94266d-1621-4177-88f4-58013f3a9347)
+
+Cleaning the Data with PowerQuery
+# Analysing Data
+![PivotTable](https://github.com/Yuvashree2505/Data_Analysis-Excel/assets/110049403/34e09e90-048d-4842-9078-7c48c6cde70e)
+![Analysing](https://github.com/Yuvashree2505/Data_Analysis-Excel/assets/110049403/ca9aafdc-e168-4d12-b92d-685a7804b699)
 # 📈 Dashboard
 ![Project](https://github.com/Yuvashree2505/Excel-Data-Analysis/assets/110049403/a8252e01-8beb-46b0-988e-5e2689d0dd31)
 
