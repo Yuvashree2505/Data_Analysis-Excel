@@ -45,7 +45,11 @@ I have cleaned the data using Power Query in Excel, where I performed various op
 
 **Analysing Data**
 ![PivotTable](https://github.com/Yuvashree2505/Data_Analysis-Excel/assets/110049403/34e09e90-048d-4842-9078-7c48c6cde70e)
+
+I have used a pivot table to analyze the data and format it. I analyzed attrition by job role, active rate, overall attrition, high performance, and low performance, using features such as calculated fields, grouping, filtering, and pivot charts.
+
 ![Analysing](https://github.com/Yuvashree2505/Data_Analysis-Excel/assets/110049403/ca9aafdc-e168-4d12-b92d-685a7804b699)
+
 **📈 Dashboard**
 ![Project](https://github.com/Yuvashree2505/Excel-Data-Analysis/assets/110049403/a8252e01-8beb-46b0-988e-5e2689d0dd31)
 
